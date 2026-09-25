@@ -1,0 +1,6 @@
+{
+  "name": "Getzy Nocturne Atelier",
+  "description": "Haute Couture Atelier & Prêt-à-Porter. The Autumn / Winter Nocturne Collection engineered from architectural double-faced cashmere and hand-sculpted Italian wool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
